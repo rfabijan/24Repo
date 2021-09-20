@@ -110,6 +110,7 @@ while True:
         table1.makeSingleMove()
     elif inp == 6:
         print("Thank you so much!")
+        print("Byr Bye")
         break
 
 
